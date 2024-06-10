@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/your-repository/static/css/main.790747bb.css",
-    "main.js": "/your-repository/static/js/main.98eda30f.js",
-    "static/js/453.48bfbed8.chunk.js": "/your-repository/static/js/453.48bfbed8.chunk.js",
-    "static/media/snapcaster-mage-5.jpg": "/your-repository/static/media/snapcaster-mage-5.6a917a2e0ffa74148fb7.jpg",
-    "static/media/snapcaster-mage-4.jpg": "/your-repository/static/media/snapcaster-mage-4.df20b0c314708c5b6e33.jpg",
-    "static/media/snapcaster-mage-3.jpg": "/your-repository/static/media/snapcaster-mage-3.b67ef2c54083cbc80072.jpg",
-    "static/media/Planewalker-38m6.ttf": "/your-repository/static/media/Planewalker-38m6.d192fa3222fe9c341a1f.ttf",
-    "static/media/snapcaster-mage-2.jpg": "/your-repository/static/media/snapcaster-mage-2.4c3e13caadc923f32844.jpg",
-    "static/media/snapcaster-mage-1.jpg": "/your-repository/static/media/snapcaster-mage-1.251302a66594533237d4.jpg",
-    "index.html": "/your-repository/index.html",
-    "main.790747bb.css.map": "/your-repository/static/css/main.790747bb.css.map",
-    "main.98eda30f.js.map": "/your-repository/static/js/main.98eda30f.js.map",
-    "453.48bfbed8.chunk.js.map": "/your-repository/static/js/453.48bfbed8.chunk.js.map"
+    "main.css": "/daily-mtg-photo-guesser/static/css/main.83dbf9c7.css",
+    "main.js": "/daily-mtg-photo-guesser/static/js/main.3046bb30.js",
+    "static/js/453.48bfbed8.chunk.js": "/daily-mtg-photo-guesser/static/js/453.48bfbed8.chunk.js",
+    "static/media/snapcaster-mage-5.jpg": "/daily-mtg-photo-guesser/static/media/snapcaster-mage-5.6a917a2e0ffa74148fb7.jpg",
+    "static/media/snapcaster-mage-4.jpg": "/daily-mtg-photo-guesser/static/media/snapcaster-mage-4.df20b0c314708c5b6e33.jpg",
+    "static/media/snapcaster-mage-3.jpg": "/daily-mtg-photo-guesser/static/media/snapcaster-mage-3.b67ef2c54083cbc80072.jpg",
+    "static/media/Planewalker-38m6.ttf": "/daily-mtg-photo-guesser/static/media/Planewalker-38m6.d192fa3222fe9c341a1f.ttf",
+    "static/media/snapcaster-mage-2.jpg": "/daily-mtg-photo-guesser/static/media/snapcaster-mage-2.4c3e13caadc923f32844.jpg",
+    "static/media/snapcaster-mage-1.jpg": "/daily-mtg-photo-guesser/static/media/snapcaster-mage-1.251302a66594533237d4.jpg",
+    "index.html": "/daily-mtg-photo-guesser/index.html",
+    "main.83dbf9c7.css.map": "/daily-mtg-photo-guesser/static/css/main.83dbf9c7.css.map",
+    "main.3046bb30.js.map": "/daily-mtg-photo-guesser/static/js/main.3046bb30.js.map",
+    "453.48bfbed8.chunk.js.map": "/daily-mtg-photo-guesser/static/js/453.48bfbed8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.790747bb.css",
-    "static/js/main.98eda30f.js"
+    "static/css/main.83dbf9c7.css",
+    "static/js/main.3046bb30.js"
   ]
 }
