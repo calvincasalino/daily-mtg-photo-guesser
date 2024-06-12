@@ -11,7 +11,7 @@ function importAll(r) {
 const images = importAll(require.context('./assets', true, /\.(png|jpe?g|svg)$/));
 
 const getCurrentCard = () => {
-  const today = new Date().toISOString().split('T')[0]; // Get today's date in YYYY-MM-DD format
+  const today = new Date().toLocaleDateString("en-CA", { timeZone: "America/New_York" }); // Get today's date in YYYY-MM-DD format
   const currentCard = cards.find(card => card.date === today);
   return currentCard;
 };

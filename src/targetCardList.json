@@ -9,7 +9,7 @@
             "./Snapcaster Mage/image4.jpg",
             "./Snapcaster Mage/image5.jpg",
             "./Snapcaster Mage/image6.jpg"
-    ]
+        ]
     },
     {
         "date": "2024-06-11",
@@ -21,7 +21,7 @@
             "./Elvish Mystic/image4.jpg",
             "./Elvish Mystic/image5.jpg",
             "./Elvish Mystic/image6.jpg"
-      ]
+        ]
     },
     {
         "date": "2024-06-12",
@@ -34,30 +34,53 @@
             "./Lava Axe/image5.jpg",
             "./Lava Axe/image6.jpg"
         ]
-  },
-  {
+    },
+    {
       "date": "2024-06-13",
       "name": "Phyrexian Obliterator",
       "images": [
-          "./Phyrexian Obliterator/image1.jpg",
-          "./Phyrexian Obliterator/image2.jpg",
-          "./Phyrexian Obliterator/image3.jpg",
-          "./Phyrexian Obliterator/image4.jpg",
-          "./Phyrexian Obliterator/image5.jpg",
-          "./Phyrexian Obliterator/image6.jpg"
-      ]
-},
-{
-    "date": "2024-06-14",
-    "name": "Elspeth Conquers Death",
-    "images": [
-        "./Elspeth Conquers Death/image1.jpg",
-        "./Elspeth Conquers Death/image2.jpg",
-        "./Elspeth Conquers Death/image3.jpg",
-        "./Elspeth Conquers Death/image4.jpg",
-        "./Elspeth Conquers Death/image5.jpg",
-        "./Elspeth Conquers Death/image6.jpg"
-    ]
-}
-
+            "./Phyrexian Obliterator/image1.jpg",
+            "./Phyrexian Obliterator/image2.jpg",
+            "./Phyrexian Obliterator/image3.jpg",
+            "./Phyrexian Obliterator/image4.jpg",
+            "./Phyrexian Obliterator/image5.jpg",
+            "./Phyrexian Obliterator/image6.jpg"
+        ]
+    },
+    {
+        "date": "2024-06-14",
+        "name": "Elspeth Conquers Death",
+        "images": [
+            "./Elspeth Conquers Death/image1.jpg",
+            "./Elspeth Conquers Death/image2.jpg",
+            "./Elspeth Conquers Death/image3.jpg",
+            "./Elspeth Conquers Death/image4.jpg",
+            "./Elspeth Conquers Death/image5.jpg",
+            "./Elspeth Conquers Death/image6.jpg"
+        ]
+    },
+    {
+        "date": "2024-06-15",
+        "name": "Doom Blade",
+        "images": [
+            "./Doom Blade/image1.jpg",
+            "./Doom Blade/image2.jpg",
+            "./Doom Blade/image3.jpg",
+            "./Doom Blade/image4.jpg",
+            "./Doom Blade/image5.jpg",
+            "./Doom Blade/image6.jpg"
+        ]
+    },
+    {
+        "date": "2024-06-16",
+        "name": "Giant Growth",
+        "images": [
+            "./Giant Growth/image1.jpg",
+            "./Giant Growth/image2.jpg",
+            "./Giant Growth/image3.jpg",
+            "./Giant Growth/image4.jpg",
+            "./Giant Growth/image5.jpg",
+            "./Giant Growth/image6.jpg"
+        ]
+    }
 ]

@@ -1,1 +1,1 @@
-mtg guesser in react
+(https://calvincasalino.github.io/daily-mtg-photo-guesser/)
