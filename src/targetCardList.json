@@ -1,0 +1,63 @@
+[
+    {
+        "date": "2024-06-10",
+        "name": "Snapcaster Mage",
+        "images": [
+            "./Snapcaster Mage/image1.jpg",
+            "./Snapcaster Mage/image2.jpg",
+            "./Snapcaster Mage/image3.jpg",
+            "./Snapcaster Mage/image4.jpg",
+            "./Snapcaster Mage/image5.jpg",
+            "./Snapcaster Mage/image6.jpg"
+    ]
+    },
+    {
+        "date": "2024-06-11",
+        "name": "Elvish Mystic",
+        "images": [
+            "./Elvish Mystic/image1.jpg",
+            "./Elvish Mystic/image2.jpg",
+            "./Elvish Mystic/image3.jpg",
+            "./Elvish Mystic/image4.jpg",
+            "./Elvish Mystic/image5.jpg",
+            "./Elvish Mystic/image6.jpg"
+      ]
+    },
+    {
+        "date": "2024-06-12",
+        "name": "Lava Axe",
+        "images": [
+            "./Lava Axe/image1.jpg",
+            "./Lava Axe/image2.jpg",
+            "./Lava Axe/image3.jpg",
+            "./Lava Axe/image4.jpg",
+            "./Lava Axe/image5.jpg",
+            "./Lava Axe/image6.jpg"
+        ]
+  },
+  {
+      "date": "2024-06-13",
+      "name": "Phyrexian Obliterator",
+      "images": [
+          "./Phyrexian Obliterator/image1.jpg",
+          "./Phyrexian Obliterator/image2.jpg",
+          "./Phyrexian Obliterator/image3.jpg",
+          "./Phyrexian Obliterator/image4.jpg",
+          "./Phyrexian Obliterator/image5.jpg",
+          "./Phyrexian Obliterator/image6.jpg"
+      ]
+},
+{
+    "date": "2024-06-14",
+    "name": "Elspeth Conquers Death",
+    "images": [
+        "./Elspeth Conquers Death/image1.jpg",
+        "./Elspeth Conquers Death/image2.jpg",
+        "./Elspeth Conquers Death/image3.jpg",
+        "./Elspeth Conquers Death/image4.jpg",
+        "./Elspeth Conquers Death/image5.jpg",
+        "./Elspeth Conquers Death/image6.jpg"
+    ]
+}
+
+]

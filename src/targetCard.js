@@ -1,17 +1,33 @@
-import image1 from './assets/target-card-1.jpg';
-import image2 from './assets/target-card-2.jpg';
-import image3 from './assets/target-card-3.jpg';
-import image4 from './assets/target-card-4.jpg';
-import image5 from './assets/target-card-5.jpg';
-import image6 from './assets/target-card-6.jpg';
+import cards from './targetCardList.json';
+
+function importAll(r) {
+  let images = {};
+  r.keys().forEach((item) => {
+    images[item.replace('./', '')] = r(item);
+  });
+  return images;
+}
+
+const images = importAll(require.context('./assets', true, /\.(png|jpe?g|svg)$/));
+
+const getCurrentCard = () => {
+  const today = new Date().toISOString().split('T')[0]; // Get today's date in YYYY-MM-DD format
+  const currentCard = cards.find(card => card.date === today);
+  return currentCard;
+};
+
+const currentCard = getCurrentCard();
+
+const getImagePath = (path) => {
+  return images[path.replace('./', '')];
+};
 
 export const targetCard = {
-
-    name: 'Elvish Mystic',
-    image1: image1,
-    image2: image2,
-    image3: image3,
-    image4: image4,
-    image5: image5,
-    image6: image6,
-  };
+  name: currentCard.name,
+  image1: getImagePath(currentCard.images[0]),
+  image2: getImagePath(currentCard.images[1]),
+  image3: getImagePath(currentCard.images[2]),
+  image4: getImagePath(currentCard.images[3]),
+  image5: getImagePath(currentCard.images[4]),
+  image6: getImagePath(currentCard.images[5]),
+};
