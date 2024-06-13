@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Autocomplete, TextField, Button } from '@mui/material';
 import { cardList } from './cardList';
 import { targetCard } from './targetCard';
@@ -9,6 +9,7 @@ import cover3 from './assets/Card Covers/imageCover3.png';
 import cover4 from './assets/Card Covers/imageCover4.png';
 import cover5 from './assets/Card Covers/imageCover5.png';
 import cover6 from './assets/Card Covers/imageCover6.png';
+import CountdownToMidnight from './CountdownToMidnight.js';
 
 function App() {
   const [inputValue, setInputValue] = useState('');
@@ -19,8 +20,13 @@ function App() {
   const [currentCover, setCurrentCover] = useState(cover1);
   const [previousCover, setPreviousCover] = useState(cover1);
   const [showInitialCover, setShowInitialCover] = useState(true);
+  const [showCardImage, setShowCardImage] = useState(false);
 
   const coverImages = [cover1, cover2, cover3, cover4, cover5, cover6];
+
+  useEffect(() => {
+    setTimeout(() => setShowCardImage(true), 100);
+  }, []);
 
   const handleButtonClick = () => {
     const newBoxColors = [...boxColors];
@@ -58,7 +64,7 @@ function App() {
       <div className="image-container">
         {showInitialCover && <img src={previousCover} alt="Cover" className="initial-cover-image" />}
         <img src={currentCover} alt="Cover" className="cover-image" />
-        <img src={targetCard.image} alt="Card" className="card-image" />
+        {showCardImage && <img src={targetCard.image} alt="Card" className="card-image" />}
       </div>
     );
   };
@@ -66,6 +72,8 @@ function App() {
   return (
     <div className="App">
       <h1>Daily MTG Photo Guesser</h1>
+      
+      <CountdownToMidnight />
  
       <ImageLayer />
     
