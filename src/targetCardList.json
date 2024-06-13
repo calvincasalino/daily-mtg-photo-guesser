@@ -2,85 +2,116 @@
     {
         "date": "2024-06-10",
         "name": "Snapcaster Mage",
-        "images": [
-            "./Snapcaster Mage/image1.jpg",
-            "./Snapcaster Mage/image2.jpg",
-            "./Snapcaster Mage/image3.jpg",
-            "./Snapcaster Mage/image4.jpg",
-            "./Snapcaster Mage/image5.jpg",
-            "./Snapcaster Mage/image6.jpg"
-        ]
+        "image": "https://cards.scryfall.io/large/front/9/e/9e5b279e-4670-4a1e-87d0-3cab7e4f9e58.jpg?1562834679"
     },
     {
         "date": "2024-06-11",
         "name": "Elvish Mystic",
-        "images": [
-            "./Elvish Mystic/image1.jpg",
-            "./Elvish Mystic/image2.jpg",
-            "./Elvish Mystic/image3.jpg",
-            "./Elvish Mystic/image4.jpg",
-            "./Elvish Mystic/image5.jpg",
-            "./Elvish Mystic/image6.jpg"
-        ]
+        "image":"https://cards.scryfall.io/large/front/7/5/75918859-c93f-41b4-9ad0-a4a96c389f0d.jpg?1689998466"
     },
     {
         "date": "2024-06-12",
         "name": "Lava Axe",
-        "images": [
-            "./Lava Axe/image1.jpg",
-            "./Lava Axe/image2.jpg",
-            "./Lava Axe/image3.jpg",
-            "./Lava Axe/image4.jpg",
-            "./Lava Axe/image5.jpg",
-            "./Lava Axe/image6.jpg"
-        ]
+        "image": "https://cards.scryfall.io/large/front/c/3/c3dab325-8f4f-4288-9f3f-960e52b4335b.jpg?1562304308"
     },
     {
-      "date": "2024-06-13",
-      "name": "Phyrexian Obliterator",
-      "images": [
-            "./Phyrexian Obliterator/image1.jpg",
-            "./Phyrexian Obliterator/image2.jpg",
-            "./Phyrexian Obliterator/image3.jpg",
-            "./Phyrexian Obliterator/image4.jpg",
-            "./Phyrexian Obliterator/image5.jpg",
-            "./Phyrexian Obliterator/image6.jpg"
-        ]
+        "date": "2024-06-13",
+        "name": "Phyrexian Obliterator",
+        "image": "https://cards.scryfall.io/large/front/4/4/44c4476d-58f9-420d-9545-f5d580c589de.jpg?1562877123"
     },
     {
         "date": "2024-06-14",
-        "name": "Elspeth Conquers Death",
-        "images": [
-            "./Elspeth Conquers Death/image1.jpg",
-            "./Elspeth Conquers Death/image2.jpg",
-            "./Elspeth Conquers Death/image3.jpg",
-            "./Elspeth Conquers Death/image4.jpg",
-            "./Elspeth Conquers Death/image5.jpg",
-            "./Elspeth Conquers Death/image6.jpg"
-        ]
+        "name": "Doom Blade",
+        "image":"https://cards.scryfall.io/large/front/7/5/75d96a37-bdbe-46ae-926f-8742699a0b20.jpg?1562831067"
     },
     {
         "date": "2024-06-15",
-        "name": "Doom Blade",
-        "images": [
-            "./Doom Blade/image1.jpg",
-            "./Doom Blade/image2.jpg",
-            "./Doom Blade/image3.jpg",
-            "./Doom Blade/image4.jpg",
-            "./Doom Blade/image5.jpg",
-            "./Doom Blade/image6.jpg"
-        ]
+        "name": "Giant Growth",
+        "image": "https://cards.scryfall.io/large/front/7/c/7cc4adb1-85af-40ba-bd36-ccd2dc1cb227.jpg?1675829938"
     },
     {
         "date": "2024-06-16",
-        "name": "Giant Growth",
-        "images": [
-            "./Giant Growth/image1.jpg",
-            "./Giant Growth/image2.jpg",
-            "./Giant Growth/image3.jpg",
-            "./Giant Growth/image4.jpg",
-            "./Giant Growth/image5.jpg",
-            "./Giant Growth/image6.jpg"
-        ]
+        "name": "Birds of Paradise",
+        "image": "https://cards.scryfall.io/large/front/4/9/496849a5-4b24-4eae-8bfb-d46f645d85ea.jpg?1675200313"
+    },
+    {
+        "date": "2024-06-17",
+        "name": "Thoughtseize",
+        "image": "https://cards.scryfall.io/large/front/3/d/3df8c148-e87d-4043-9d8b-ec72bf8b6d5d.jpg?1562345371"
+    },
+    {
+        "date": "2024-06-18",
+        "name": "Stoneforge Mystic",
+        "image": "https://cards.scryfall.io/large/front/1/9/19557351-b65f-4b04-b971-66abdc07000a.jpg?1566819710"
+    },
+    {
+        "date": "2024-06-19",
+        "name": "Black Lotus",
+        "image": "https://cards.scryfall.io/large/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1559591477"
+    },
+    {
+        "date": "2024-06-20",
+        "name": "Brainstorm",
+        "image": "https://cards.scryfall.io/large/front/8/d/8d42d7aa-7f53-4cfc-842a-086aab2448d1.jpg?1616400136"
+    },
+    {
+        "date": "2024-06-21",
+        "name": "Thopter Foundry",
+        "image": "https://cards.scryfall.io/large/front/4/2/42b8d797-b01d-49cf-9818-d84bba17029d.jpg?1562640917"
+    },
+    {
+        "date": "2024-06-22",
+        "name": "Goblin Rabblemaster",
+        "image": "https://cards.scryfall.io/large/front/e/e/ee9c697e-d2c0-413b-9142-ecf5d7cf5322.jpg?1562796647"
+    },
+    {
+        "date": "2024-06-23",
+        "name": "Containment Priest",
+        "image": "https://cards.scryfall.io/large/front/a/2/a24e8dba-5c86-4e32-8a52-61402f7fe9f0.jpg?1594734854"
+    },
+    {
+        "date": "2024-06-24",
+        "name": "Remand",
+        "image": "https://cards.scryfall.io/large/front/5/8/581f3780-c480-48c6-b15c-1618f2feccb9.jpg?1598914434"
+    },
+    {
+        "date": "2024-06-25",
+        "name": "Crucible of Worlds",
+        "image": "https://cards.scryfall.io/large/front/e/b/eb28b35c-28a5-4042-b21d-6d43658a16eb.jpg?1591196097"
+    },
+    {
+        "date": "2024-06-26",
+        "name": "Sneak Attack",
+        "image": "https://cards.scryfall.io/large/front/a/4/a45b4ca9-4355-4690-84c3-a7d44c367dbf.jpg?1675200189"
+    },
+    {
+        "date": "2024-06-27",
+        "name": "Expressive Iteration",
+        "image": "https://cards.scryfall.io/large/front/3/1/31b770cc-09e7-4c0b-b2a4-462ab4f7200d.jpg?1678110681"
+    },
+    {
+        "date": "2024-06-28",
+        "name": "Thragtusk",
+        "image": "https://cards.scryfall.io/large/front/2/8/28667c8b-d02c-4e57-a050-1549207b65d1.jpg?1562551691"
+    },
+    {
+        "date": "2024-06-29",
+        "name": "Parallax Wave",
+        "image": "https://cards.scryfall.io/large/front/c/e/cef789e8-e4cc-4f61-bc15-debc2487777f.jpg?1562632102"
+    },
+    {
+        "date": "2024-06-30",
+        "name": "Yawgmoth's Will",
+        "image": "https://cards.scryfall.io/large/front/6/d/6d3e3c3a-d351-4d91-8884-312d4b6f540d.jpg?1562917904"
+    },
+    {
+        "date": "2024-07-01",
+        "name": "Hallowed Fountain",
+        "image": "https://cards.scryfall.io/large/front/c/2/c28aea19-2a39-4934-afda-909e234fa3ba.jpg?1593274095"
+    },
+    {
+        "date": "2024-07-02",
+        "name": "Memnarch",
+        "image": "https://cards.scryfall.io/large/front/5/7/57ae2417-b859-4254-a3a5-6bff159447ca.jpg?1562636993"
     }
 ]
