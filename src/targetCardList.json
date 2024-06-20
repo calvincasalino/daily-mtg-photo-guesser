@@ -113,5 +113,45 @@
         "date": "2024-07-02",
         "name": "Memnarch",
         "image": "https://cards.scryfall.io/large/front/5/7/57ae2417-b859-4254-a3a5-6bff159447ca.jpg?1562636993"
+    },
+    {
+        "date": "2024-07-03",
+        "name": "Life from the Loam",
+        "image": "https://cards.scryfall.io/large/front/7/a/7ac16d09-8bc7-407c-a757-666f4707bc90.jpg?1598916380"
+    },
+    {
+        "date": "2024-07-04",
+        "name": "Delver of Secrets",
+        "image": "https://cards.scryfall.io/large/front/1/1/11bf83bb-c95b-4b4f-9a56-ce7a1816307a.jpg?1562826346"
+    },
+    {
+        "date": "2024-07-05",
+        "name": "Raging Ravine",
+        "image": "https://cards.scryfall.io/large/front/c/b/cb7b6fb5-4d38-4734-b46f-923322cff24e.jpg?1562296161"
+    },
+    {
+        "date": "2024-07-06",
+        "name": "Murderous Redcap",
+        "image": "https://cards.scryfall.io/large/front/5/f/5f7171f0-7d42-47c9-ab46-93c2bb42c914.jpg?1562830742"
+    },
+    {
+        "date": "2024-07-07",
+        "name": "Collective Brutality",
+        "image": "https://cards.scryfall.io/large/front/c/b/cb94a02f-4660-45b6-8a39-941b710cf8f3.jpg?1576384285"
+    },
+    {
+        "date": "2024-07-08",
+        "name": "Akroma, Angel of Wrath",
+        "image": "https://cards.scryfall.io/large/front/8/1/814245de-6105-43ef-acbf-d12d304b6331.jpg?1562921034"
+    },
+    {
+        "date": "2024-07-09",
+        "name": "Thorn Elemental",
+        "image": "https://cards.scryfall.io/large/front/9/f/9fd239e3-dbe5-4a30-973d-9707de425a33.jpg?1675830465"
+    },
+    {
+        "date": "2024-07-10",
+        "name": "Shield of Kaldra",
+        "image": "https://cards.scryfall.io/large/front/d/3/d3e09c8a-6c55-491b-96e9-6cf05f673ac3.jpg?1562639769"
     }
 ]
