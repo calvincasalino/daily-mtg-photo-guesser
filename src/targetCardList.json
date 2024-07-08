@@ -153,5 +153,880 @@
         "date": "2024-07-10",
         "name": "Shield of Kaldra",
         "image": "https://cards.scryfall.io/large/front/d/3/d3e09c8a-6c55-491b-96e9-6cf05f673ac3.jpg?1562639769"
+    },
+    {
+        "date": "2024-07-11",
+        "name": "Dill Pickle",
+        "image": "https://i.ibb.co/pwmwwTv/createcard.jpg"
+    },
+    {
+        "date": "2024-07-12",
+        "name": "Inferno Titan",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/1/f1e4a028-6462-4373-9864-a8adfc78d52b.jpg?1562480719"
+    },
+    {
+        "date": "2024-07-13",
+        "name": "Glorious Anthem",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/6/1/61f867c5-0727-4408-b479-b81518daa0ec.jpg?1562915432"
+    },
+    {
+        "date": "2024-07-14",
+        "name": "Force of Negation",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/7/b769ba9e-2ac8-48a9-9f45-23a4ccd0cb96.jpg?1630616412"
+    },
+    {
+        "date": "2024-07-15",
+        "name": "Shambling Vent",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/3/0/30a73816-1f33-4798-a9d6-5f0410d19625.jpg?1562906381"
+    },
+    {
+        "date": "2024-07-16",
+        "name": "Oath of Druids",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/f/cf14de50-d123-400c-862e-2c95fd2aa23f.jpg?1562088805"
+    },
+    {
+        "date": "2024-07-17",
+        "name": "Intangible Virtue",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/d/edfa180a-772d-4d4a-9c1b-22b3cf18e2b0.jpg?1619399829"
+    },
+    {
+        "date": "2024-07-18",
+        "name": "Grief",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/e/a/ea859431-c1bf-4d07-9845-430bc217cb91.jpg?1628337131"
+    },
+    {
+        "date": "2024-07-19",
+        "name": "Lavaclaw Reaches",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/c/7/c7066095-f05a-4f2e-ab9c-47c498608ccb.jpg?1562295701"
+    },
+    {
+        "date": "2024-07-20",
+        "name": "Ponder",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af450adb-23be-4332-a54c-d647a1fd0248.jpg?1620236340"
+    },
+    {
+        "date": "2024-07-21",
+        "name": "Blood Crypt",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/2/f281e16f-0fe1-4095-bd63-0a4479f75c11.jpg?1593274074"
+    },
+    {
+        "date": "2024-07-22",
+        "name": "Primeval Titan",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/5/3/53760940-50e4-45d4-8297-353c9fc896e9.jpg?1619402145"
+    },
+    {
+        "date": "2024-07-23",
+        "name": "Shivan Dragon",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/fefbf149-f988-4f8b-9f53-56f5878116a6.jpg?1559591401"
+    },
+    {
+        "date": "2024-07-24",
+        "name": "Leonin Arbiter",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4b0453cd-62ab-41ba-8d9c-9d6d25dc9a56.jpg?1562817247"
+    },
+    {
+        "date": "2024-07-25",
+        "name": "Dismember",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/8/08d405dc-180f-4edb-8c53-80a034ee622e.jpg?1619400792"
+    },
+    {
+        "date": "2024-07-26",
+        "name": "Surgical Extraction",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/d/c/dca7e072-edb5-4f7e-bdec-a3a393053c80.jpg?1562882025"
+    },
+    {
+        "date": "2024-07-27",
+        "name": "Underworld Breach",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/1/8/18e1bdc9-be60-4abd-9756-d3e70e2fcdb5.jpg?1581507317"
+    },
+    {
+        "date": "2024-07-28",
+        "name": "Bitterblossom",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/8/1/8145fed6-6b51-420a-84cf-4ea5e0aa1883.jpg?1562879630"
+    },
+    {
+        "date": "2024-07-29",
+        "name": "Green Sun's Zenith",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/0/2/02335747-54e3-4827-ae19-4e362863da9b.jpg?1562609284"
+    },
+    {
+        "date": "2024-07-30",
+        "name": "Sylvan Library",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/f/4/f486df00-7c4a-4ff0-bb0b-c8b5432ac742.jpg?1562861845"
+    },
+    {
+        "date": "2024-07-31",
+        "name": "Cauldron Familiar",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/9/a/9a539a23-8383-4525-82dd-acfe1d219fe9.jpg?1572490099"
+    },
+    {
+        "date": "2024-08-01",
+        "name": "Red Elemental Blast",
+        "image": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/7/776ad9be-3309-4f1d-9f27-6219d9477662.jpg?1559591383"
+    },
+    {
+        "date": "2024-08-02",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-03",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-04",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-05",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-06",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-07",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-08",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-09",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-10",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-11",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-12",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-13",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-14",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-15",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-16",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-17",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-18",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-19",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-20",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-21",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-22",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-23",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-24",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-25",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-26",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-27",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-28",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-29",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-30",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-08-31",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-01",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-02",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-03",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-04",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-05",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-06",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-07",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-08",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-09",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-10",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-11",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-12",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-13",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-14",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-15",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-16",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-17",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-18",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-19",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-20",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-21",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-22",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-23",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-24",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-25",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-26",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-27",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-28",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-29",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-09-30",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-01",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-02",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-03",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-04",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-05",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-06",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-07",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-08",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-09",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-10",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-11",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-12",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-13",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-14",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-15",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-16",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-17",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-18",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-19",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-20",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-21",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-22",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-23",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-24",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-25",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-26",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-27",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-28",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-29",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-30",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-10-31",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-01",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-02",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-03",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-04",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-05",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-06",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-07",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-08",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-09",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-10",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-11",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-12",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-13",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-14",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-15",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-16",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-17",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-18",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-19",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-20",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-21",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-22",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-23",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-24",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-25",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-26",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-27",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-28",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-29",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-11-30",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-01",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-02",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-03",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-04",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-05",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-06",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-07",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-08",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-09",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-10",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-11",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-12",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-13",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-14",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-15",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-16",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-17",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-18",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-19",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-20",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-21",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-22",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-23",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-24",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-25",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-26",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-27",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-28",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-29",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-30",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2024-12-31",
+        "name": "",
+        "image": ""
+    },
+    {
+        "date": "2025-01-01",
+        "name": "",
+        "image": ""
     }
 ]

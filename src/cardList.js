@@ -22552,5 +22552,5 @@ export const cardList = [
 {label: 'Zuran Spellcaster'}	,
 {label: 'Zurgo Bellstriker'}	,
 {label: 'Zurgo Helmsmasher'}	,
-{label: 'Zurzoth, Chaos Rider'}	
+{label: 'Zurzoth, Chaos Rider'}
 ];
