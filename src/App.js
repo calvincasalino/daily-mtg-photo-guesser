@@ -1,8 +1,7 @@
 import './App.css';
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Autocomplete, TextField, Button } from '@mui/material';
-import { cardList } from './cardList';
-import { targetCard } from './targetCard';
+import { targetCard } from './targetCard'; // Ensure targetCard is imported correctly
 import cover1 from './assets/Card Covers/imageCover1.png';
 import cover2 from './assets/Card Covers/imageCover2.png';
 import cover3 from './assets/Card Covers/imageCover3.png';
@@ -13,6 +12,7 @@ import CountdownToMidnight from './CountdownToMidnight.js';
 
 function App() {
   const [inputValue, setInputValue] = useState('');
+  const [suggestions, setSuggestions] = useState([]);
   const [guessNumber, setGuessNumber] = useState(1);
   const [boxColors, setBoxColors] = useState(Array(5).fill('white'));
   const [isCorrect, setIsCorrect] = useState(false);
@@ -20,13 +20,26 @@ function App() {
   const [currentCover, setCurrentCover] = useState(cover1);
   const [previousCover, setPreviousCover] = useState(cover1);
   const [showInitialCover, setShowInitialCover] = useState(true);
-  const [showCardImage, setShowCardImage] = useState(false);
 
   const coverImages = [cover1, cover2, cover3, cover4, cover5, cover6];
 
-  useEffect(() => {
-    setTimeout(() => setShowCardImage(true), 100);
-  }, []);
+  // Fetch suggestions from Scryfall API
+  const fetchSuggestions = async (query) => {
+    if (query.length < 2) {
+      setSuggestions([]);
+      return;
+    }
+
+    try {
+      const response = await fetch(`https://api.scryfall.com/cards/autocomplete?q=${query}`);
+      if (!response.ok) throw new Error('Failed to fetch suggestions');
+      const data = await response.json();
+      setSuggestions(data.data || []);
+    } catch (error) {
+      console.error('Error fetching autocomplete suggestions:', error);
+      setSuggestions([]);
+    }
+  };
 
   const handleButtonClick = () => {
     const newBoxColors = [...boxColors];
@@ -46,7 +59,7 @@ function App() {
       } else {
         setPreviousCover(currentCover);
         setCurrentCover(coverImages[guessNumber]);
-        setGuessNumber(prevGuessNumber => prevGuessNumber + 1);
+        setGuessNumber((prevGuessNumber) => prevGuessNumber + 1);
       }
     }
     setShowInitialCover(true);
@@ -60,11 +73,22 @@ function App() {
   };
 
   const ImageLayer = () => {
+    console.log("Target Card Image URL:", targetCard.image); // Debugging the image URL
+
+    // Check if the image URL is valid
+    const isImageValid = targetCard.image && targetCard.image.startsWith('http'); // Make sure it’s a valid URL
+
     return (
       <div className="image-container">
         {showInitialCover && <img src={previousCover} alt="Cover" className="initial-cover-image" />}
         <img src={currentCover} alt="Cover" className="cover-image" />
-        {showCardImage && <img src={targetCard.image} alt="Card" className="card-image" />}
+        {isImageValid && (
+          <img src={targetCard.image} alt="Card" className="card-image" />
+        )}
+        {/* If the image is invalid, fallback to a default image */}
+        {!isImageValid && (
+          <img src={cover1} alt="Fallback Card" className="card-image" />
+        )}
       </div>
     );
   };
@@ -86,22 +110,15 @@ function App() {
           <Autocomplete
             disablePortal
             id="combo-box"
-            options={cardList}
-            getOptionLabel={(option) => option.label}
+            options={suggestions}
+            getOptionLabel={(option) => option} // Scryfall suggestions are plain strings
             sx={{ width: 400 }}
             renderInput={(params) => <TextField {...params} label="Guess a card name" />}
-            noOptionsText=""
+            noOptionsText="Type to search..."
             inputValue={inputValue}
             onInputChange={(event, newInputValue) => {
               setInputValue(newInputValue);
-            }}
-            filterOptions={(options, { inputValue }) => {
-              if (inputValue === '') {
-                return [];
-              }
-              return options.filter(option =>
-                option.label.toLowerCase().includes(inputValue.toLowerCase())
-              );
+              fetchSuggestions(newInputValue); // Fetch suggestions as user types
             }}
           />
         </div>
@@ -114,7 +131,6 @@ function App() {
           </Button>
         </div>
       )}
-
     </div>
   );
 }
