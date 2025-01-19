@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/daily-mtg-photo-guesser/static/css/main.fade37d2.css",
-    "main.js": "/daily-mtg-photo-guesser/static/js/main.96403bcc.js",
+    "main.js": "/daily-mtg-photo-guesser/static/js/main.3c5cf910.js",
     "static/js/453.48bfbed8.chunk.js": "/daily-mtg-photo-guesser/static/js/453.48bfbed8.chunk.js",
     "static/media/Planewalker-38m6.ttf": "/daily-mtg-photo-guesser/static/media/Planewalker-38m6.d192fa3222fe9c341a1f.ttf",
     "static/media/imageCover4.png": "/daily-mtg-photo-guesser/static/media/imageCover4.293b0ba6cc51ce66b3cb.png",
@@ -12,11 +12,11 @@
     "static/media/imageCover6.png": "/daily-mtg-photo-guesser/static/media/imageCover6.355cdc4d904fd69f0327.png",
     "index.html": "/daily-mtg-photo-guesser/index.html",
     "main.fade37d2.css.map": "/daily-mtg-photo-guesser/static/css/main.fade37d2.css.map",
-    "main.96403bcc.js.map": "/daily-mtg-photo-guesser/static/js/main.96403bcc.js.map",
+    "main.3c5cf910.js.map": "/daily-mtg-photo-guesser/static/js/main.3c5cf910.js.map",
     "453.48bfbed8.chunk.js.map": "/daily-mtg-photo-guesser/static/js/453.48bfbed8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fade37d2.css",
-    "static/js/main.96403bcc.js"
+    "static/js/main.3c5cf910.js"
   ]
 }
