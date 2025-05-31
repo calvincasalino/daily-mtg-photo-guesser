@@ -73,19 +73,28 @@ function App() {
   };
 
   const ImageLayer = () => {
-    console.log("Target Card Image URL:", targetCard.image); // Debugging the image URL
-
-    // Check if the image URL is valid
-    const isImageValid = targetCard.image && targetCard.image.startsWith('http'); // Make sure it’s a valid URL
-
+    const [coverClass, setCoverClass] = useState('');
+    const isImageValid = targetCard.image && targetCard.image.startsWith('http');
+  
     return (
       <div className="image-container">
-        {showInitialCover && <img src={previousCover} alt="Cover" className="initial-cover-image" />}
-        <img src={currentCover} alt="Cover" className="cover-image" />
+        {showInitialCover && (
+          <img
+            src={previousCover}
+            alt="Cover"
+            className={`initial-cover-image ${coverClass}`}
+            onLoad={() => setCoverClass('loaded')}
+          />
+        )}
+        <img
+          src={currentCover}
+          alt="Cover"
+          className={`cover-image ${coverClass}`}
+          onLoad={() => setCoverClass('loaded')}
+        />
         {isImageValid && (
           <img src={targetCard.image} alt="Card" className="card-image" />
         )}
-        {/* If the image is invalid, fallback to a default image */}
         {!isImageValid && (
           <img src={cover1} alt="Fallback Card" className="card-image" />
         )}

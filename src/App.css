@@ -65,10 +65,17 @@ body {
 
 .card-image {
   z-index: 1;
+  opacity: 0;
+  transition: opacity 1.0s ease-in-out;
 }
 
 .cover-image {
   z-index: 2;
+}
+
+.cover-image.loaded ~ .card-image,
+.initial-cover-image.loaded ~ .card-image {
+  opacity: 1;
 }
 
 .initial-cover-image {
